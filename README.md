@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 - Database Interfacing (SQL)
 
 ### Contact me:
-### [:camera_flash:](https://www.instagram.com/jordan.migneault/)
-### [:mailbox:](mailto:jmigno66@aol.com?subject=From%20GitHub!)
-### [:briefcase:](https://www.linkedin.com/in/jordan-migneault-31805b20b/)
+### [:camera_flash: - Instagram](https://www.instagram.com/jordan.migneault/)
+### [:mailbox: - Email](mailto:jmigno66@aol.com?subject=From%20GitHub!)
+### [:briefcase: - LinkedIn](https://www.linkedin.com/in/jordan-migneault-31805b20b/)

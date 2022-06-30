@@ -36,4 +36,7 @@ Here are some ideas to get you started:
 - WebAPIs (C#)
 - Database Interfacing (SQL)
 
-# Thanks for taking the time to look at my profile! If you have any questions feel free to reach out at any of the links on the sidebar.
+### Contact me:
+### [:camera_flash:](https://www.instagram.com/jordan.migneault/)
+### [:mailbox:](mailto:jmigno66@aol.com?subject=From%20GitHub!)
+### [:briefcase:](https://www.linkedin.com/in/jordan-migneault-31805b20b/)

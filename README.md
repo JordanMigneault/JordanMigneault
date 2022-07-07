@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About me!
 ## I'm Jordan Migneault (he/him), a 19-year-old, 2nd-year CS and Math student at [Lehigh University](https://www1.lehigh.edu/home).
-### What I do:
+### What I've done:
 - IT Intern at [KPM Exceptional LLC](http://kpmedi.net/), a power equipment distributor based in Landing, New Jersey (Sept. 2018 - Aug. 2022).
 - Head programmer of [FRC Team 4361](https://roxbotix.org/) during sophomore and junior seasons (2019 - 2020).
 - CEO of [FRC Team 4361](https://roxbotix.org/) during senior season (2021).
@@ -31,10 +31,15 @@ Here are some ideas to get you started:
 ### Programming Experience:
 - Tele-operated and Autonomous Robot Control (Java & Python)
 - Front-end Web Development (ASP.Net, HTML, CSS)
-- Back-end Web Development (Java & C#)
+- Back-end Web Development (Java, C#, JavaScript)
 - Web-Scraping (Python)
 - WebAPIs (C#)
 - Database Interfacing (SQL)
+
+### Interests:
+- Video Games 🎮
+- Custom Keyboards ⌨️
+- Football 🏈🦅
 
 ### Contact me:
 ### [:camera_flash: - Instagram](https://www.instagram.com/jordan.migneault/)

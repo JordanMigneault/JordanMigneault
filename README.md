@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - SQL (Started 2018) :card_index_dividers:
 - ASP.Net (Started 2018) :desktop_computer:
 - JavaScript (Started 2021) :black_nib:
+- R (Started 2022) :bar_chart:
 
 ### Programming Experience:
 - Tele-operated and Autonomous Robot Control (Java & Python)

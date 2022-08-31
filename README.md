@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - Web-Scraping (Python)
 - WebAPIs (C#)
 - Database Interfacing (SQL)
+- Data Analysis (Python, R)
 
 ### Interests:
 - Video Games 🎮

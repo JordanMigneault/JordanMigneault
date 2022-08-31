@@ -18,11 +18,17 @@ Here are some ideas to get you started:
 
 
 ### What I've Done:
+<details>
+
+<summary></summary>
+
 - IT Intern at [KPM Exceptional LLC](http://kpmedi.net/), a power equipment distributor based in Landing, New Jersey (Sept. 2018 - Aug. 2022).
 
 - Head programmer of [FRC Team 4361](https://roxbotix.org/) during sophomore and junior seasons (2019 - 2020).
 
 - CEO of [FRC Team 4361](https://roxbotix.org/) during senior season (2021).
+
+</details>
 
 ### Programming Language History:
 <details>
@@ -68,6 +74,12 @@ Here are some ideas to get you started:
 </details>
 
 ### Contact me:
+<details>
+
+<summary></summary>
+
 #### [:camera_flash: - Instagram](https://www.instagram.com/jordan.migneault/)
 #### [:mailbox: - Email](mailto:jmigno66@aol.com?subject=From%20GitHub!)
 #### [:briefcase: - LinkedIn](https://www.linkedin.com/in/jordan-migneault-31805b20b/)
+
+</details>

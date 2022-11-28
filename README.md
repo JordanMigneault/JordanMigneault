@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <summary></summary>
 
-- IT Intern at [KPM Exceptional LLC](http://kpmedi.net/), a power equipment distributor based in Landing, New Jersey (Sept. 2018 - Aug. 2022).
+- IT Intern at [KPM Exceptional LLC](http://kpmedi.net/), a power equipment distributor based in Landing, New Jersey (Sept. 2018 - Jan. 2023).
 
 - Head programmer of [FRC Team 4361](https://roxbotix.org/) during sophomore and junior seasons (2019 - 2020).
 

@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - WebAPIs (C#)
 - Database Interfacing (SQL)
 - Data Analysis (Python, R)
+- Small-Medium Size Systems (C/C++)
 
 </details>
 

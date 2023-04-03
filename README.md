@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - ASP.Net (Started 2018) :desktop_computer:
 - JavaScript (Started 2021) :black_nib:
 - R (Started 2022) :bar_chart:
+- C/C++ (Started 2023) 🛠️
 
 </details>
 

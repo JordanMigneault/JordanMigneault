@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 - CEO of [FRC Team 4361](https://roxbotix.org/) during senior season (2021).
 
+- Cybersecurity Intern at [Parx Casino](https://www.parxcasino.com), a casino located in Bensalem, Pennsylvania (May 2023 - Present).
+
 </details>
 
 ### Programming Language History:

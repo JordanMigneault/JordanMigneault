@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - JavaScript (Started 2021) :black_nib:
 - R (Started 2022) :bar_chart:
 - C/C++ (Started 2023) 🛠️
+- Assembly (x86) (Started 2023) 🧱
 
 </details>
 

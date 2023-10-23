@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <summary></summary>
 
 - Tele-operated and Autonomous Robot Control (Java & Python)
-- Front-end Web Development (ASP.Net, HTML, CSS)
+- Front-end Web Development (ASP.Net, HTML, CSS, JavaScript, TypeScript, C#)
 - Back-end Web Development (Java, C#, JavaScript)
 - Application Development (Java, C#, JavaScript)
 - Web-Scraping (Python)

@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 - CEO of [FRC Team 4361](https://roxbotix.org/) during senior season (2021).
 
-- Cybersecurity Intern at [Parx Casino](https://www.parxcasino.com), a casino located in Bensalem, Pennsylvania (May 2023 - Present).
+- Cybersecurity Intern at [Parx Casino](https://www.parxcasino.com), a casino located in Bensalem, Pennsylvania (May 2023 - May 2024).
+
+- Software Engineering Intern at [Dune Security](https://www.dunesecurity.io/), a cybersecurity startup based in New York, New York (May 2024 - Present).
 
 </details>
 
@@ -47,6 +49,7 @@ Here are some ideas to get you started:
 - R (Started 2022) :bar_chart:
 - C/C++ (Started 2023) 🛠️
 - Assembly (x86) (Started 2023) 🧱
+- Go (Started 2024) 💨
 
 </details>
 
@@ -59,10 +62,10 @@ Here are some ideas to get you started:
 - Front-end Web Development (ASP.Net, HTML, CSS, JavaScript, TypeScript, C#)
 - Back-end Web Development (Java, C#, JavaScript)
 - Application Development (Java, C#, JavaScript)
-- Web-Scraping (Python)
-- WebAPIs (C#)
+- Web-Scraping (Python, Go)
+- WebAPIs (C#, Go)
 - Database Interfacing (SQL)
-- Data Analysis (Python, R)
+- Data Analysis (Python, R, Go)
 - Small-Medium Size Systems (C/C++)
 
 </details>

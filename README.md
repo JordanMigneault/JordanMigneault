@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # About me!
-## I'm Jordan Migneault (he/him), a 21-year-old, 3rd-year CS and Math student at [Lehigh University](https://www1.lehigh.edu/home).
+## I'm Jordan Migneault (he/him), a 21-year-old, 4rd-year CS and Math student at [Lehigh University](https://www1.lehigh.edu/home).
 
 
 ### What I've Done:

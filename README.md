@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # About me!
-## I'm Jordan Migneault (he/him), a 21-year-old, 4rd-year CS and Math student at [Lehigh University](https://www1.lehigh.edu/home).
+## I'm Jordan Migneault (he/him), a 21-year-old, 4th-year CS and Math student at [Lehigh University](https://www1.lehigh.edu/home).
 
 
 ### What I've Done:
@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 - Database Interfacing (SQL)
 - Data Analysis (Python, R, Go)
 - Small-Medium Size Systems (C/C++)
+- Data Ingestion Pipelines (Go)
+- Data Streaming w/ Apache Kafka (Go)
 
 </details>
 

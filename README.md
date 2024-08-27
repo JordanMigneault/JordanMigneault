@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 - Small-Medium Size Systems (C/C++)
 - Data Ingestion Pipelines (Go)
 - Data Streaming w/ Apache Kafka (Go)
+- AWS Lambda Microservices (Go, Python)
 
 </details>
 
